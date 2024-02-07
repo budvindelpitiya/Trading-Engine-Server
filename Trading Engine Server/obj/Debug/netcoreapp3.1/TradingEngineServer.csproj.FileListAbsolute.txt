@@ -1,0 +1,5 @@
+C:\Users\budvi\OneDrive\Desktop\GITHUB PROJECTS\Trading Engine\TradingEngineServer\obj\Debug\netcoreapp3.1\TradingEngineServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\budvi\OneDrive\Desktop\GITHUB PROJECTS\Trading Engine\TradingEngineServer\obj\Debug\netcoreapp3.1\TradingEngineServer.AssemblyInfoInputs.cache
+C:\Users\budvi\OneDrive\Desktop\GITHUB PROJECTS\Trading Engine\TradingEngineServer\obj\Debug\netcoreapp3.1\TradingEngineServer.AssemblyInfo.cs
+C:\Users\budvi\OneDrive\Desktop\GITHUB PROJECTS\Trading Engine\TradingEngineServer\obj\Debug\netcoreapp3.1\TradingEngineServer.csproj.CoreCompileInputs.cache
+C:\Users\budvi\OneDrive\Desktop\GITHUB PROJECTS\Trading Engine\TradingEngineServer\obj\Debug\netcoreapp3.1\TradingEngineServer.csproj.AssemblyReference.cache
